@@ -1,0 +1,192 @@
+[15-Oct-2018 20:50:00 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 1
+[15-Oct-2018 20:50:00 UTC] PHP Stack trace:
+[15-Oct-2018 20:50:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:50:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 1
+[15-Oct-2018 20:50:00 UTC] PHP Stack trace:
+[15-Oct-2018 20:50:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:50:00 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 1
+[15-Oct-2018 20:50:00 UTC] PHP Stack trace:
+[15-Oct-2018 20:50:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:50:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 1
+[15-Oct-2018 20:50:00 UTC] PHP Stack trace:
+[15-Oct-2018 20:50:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:51:39 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 1
+[15-Oct-2018 20:51:39 UTC] PHP Stack trace:
+[15-Oct-2018 20:51:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:51:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 1
+[15-Oct-2018 20:51:39 UTC] PHP Stack trace:
+[15-Oct-2018 20:51:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:51:39 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 1
+[15-Oct-2018 20:51:39 UTC] PHP Stack trace:
+[15-Oct-2018 20:51:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:51:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 1
+[15-Oct-2018 20:51:39 UTC] PHP Stack trace:
+[15-Oct-2018 20:51:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:51:49 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 1
+[15-Oct-2018 20:51:49 UTC] PHP Stack trace:
+[15-Oct-2018 20:51:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:51:49 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 1
+[15-Oct-2018 20:51:49 UTC] PHP Stack trace:
+[15-Oct-2018 20:51:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:51:49 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 1
+[15-Oct-2018 20:51:49 UTC] PHP Stack trace:
+[15-Oct-2018 20:51:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:51:49 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 1
+[15-Oct-2018 20:51:49 UTC] PHP Stack trace:
+[15-Oct-2018 20:51:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:24 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:24 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:24 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:24 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:24 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:24 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:24 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:24 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:25 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:25 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:25 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:25 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:26 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:26 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:26 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:26 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:26 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:26 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:26 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:26 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:26 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:26 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:26 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:26 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:26 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:26 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:26 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:26 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:27 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:27 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:27 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:27 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:27 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:27 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:27 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:27 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:27 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:27 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:27 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:27 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:27 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:27 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:27 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:27 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:27 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:27 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:27 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:27 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:27 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:27 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:27 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:27 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:28 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:28 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:28 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:28 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:28 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:28 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:28 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:28 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:28 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:28 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:28 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:28 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:28 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:28 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:28 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:29 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:29 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:29 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:29 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:29 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:29 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:29 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:29 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:29 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:29 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:29 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:29 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:29 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:29 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:29 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:29 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:30 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:30 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:30 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:30 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:30 UTC] PHP Warning:  require_once(content.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:30 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 20:52:30 UTC] PHP Fatal error:  require_once(): Failed opening required 'content.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 2
+[15-Oct-2018 20:52:30 UTC] PHP Stack trace:
+[15-Oct-2018 20:52:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
